@@ -26,7 +26,7 @@ matplotlib
 PIL
 ```
 
-### 4. Misc
+### 4. Quick-Start
 Pre-trained models are available in Model directory
 
 Test Images are provided in Images directory
